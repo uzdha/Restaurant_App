@@ -528,7 +528,7 @@ $error-color: #000;
 .card_review {
   margin-top: 30px;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   gap: 30px;
 
   .review_item {
@@ -667,7 +667,7 @@ $error-color: #000;
       outline: none;
       color: #333;
       font-size: 14px;
-      padding: 12px;
+      padding: 14px;
       width: 100%;
       border-radius: 25px;
       font-family: 'Montserrat', sans-serif;
